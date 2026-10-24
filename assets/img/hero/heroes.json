@@ -1,0 +1,128 @@
+{
+ "drain-cleaning": {
+  "file": "drain-cleaning.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Gloved hand feeding a drain snake cable into a tiled floor drain"
+ },
+ "hydro-jetting": {
+  "file": "hydro-jetting.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "High pressure jetting nozzle spraying water into a black sewer cleanout pipe on a lawn"
+ },
+ "sewer-line-cleaning": {
+  "file": "sewer-line-cleaning.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Technician feeding a cleaning hose into a white sewer cleanout in a grassy yard"
+ },
+ "sewer-camera-inspection": {
+  "file": "sewer-camera-inspection.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Crawler camera cable running into a basement cleanout with a monitor showing the pipe interior"
+ },
+ "sewer-line-repair": {
+  "file": "sewer-line-repair.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Small excavation in a front lawn exposing an old buried sewer pipe with a marker flag"
+ },
+ "slab-leak-repair": {
+  "file": "slab-leak-repair.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Jackhammered opening in a concrete slab floor exposing a corroded copper water pipe"
+ },
+ "leak-detection": {
+  "file": "leak-detection.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Technician kneeling on tile floor placing an acoustic leak sensor on a tripod"
+ },
+ "burst-pipe-repair": {
+  "file": "burst-pipe-repair.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Split copper water pipe spraying water between wooden ceiling joists"
+ },
+ "water-service-line-repair": {
+  "file": "water-service-line-repair.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Open yard trench carrying a copper water line from the meter box to a house"
+ },
+ "repiping": {
+  "file": "repiping.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Open wall studs with red and blue PEX water lines run along every stud bay"
+ },
+ "plumbing-installation": {
+  "file": "plumbing-installation.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "New construction bathroom rough in with white drain pipes and supply lines beside a tub"
+ },
+ "commercial-plumbing": {
+  "file": "commercial-plumbing.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Commercial kitchen with stainless steel sinks and overhead copper and white drain piping"
+ },
+ "faucet-repair": {
+  "file": "faucet-repair.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Hand adjusting the handle of a chrome gooseneck kitchen faucet"
+ },
+ "garbage-disposal-repair": {
+  "file": "garbage-disposal-repair.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Under sink view of a stainless garbage disposal with red reset button and drain pipes"
+ },
+ "toilet-repair": {
+  "file": "toilet-repair.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Open toilet tank showing the fill valve, red flapper and chain from above"
+ },
+ "water-softener-filtration": {
+  "file": "water-softener-filtration.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Water softener and filtration tanks with brine tank connected by copper piping in a garage"
+ },
+ "tankless-water-heater": {
+  "file": "tankless-water-heater.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Wall mounted tankless water heater with vent pipe, copper lines and yellow gas line"
+ },
+ "water-heater-repair": {
+  "file": "water-heater-repair.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Gas water heater with its burner access door open showing the pilot flame and gas valve"
+ },
+ "water-heater-replacement": {
+  "file": "water-heater-replacement.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "New white tank water heater on a drain pan with copper lines and an expansion tank"
+ },
+ "water-heater-installation": {
+  "file": "water-heater-installation.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "Newly installed tank water heater in a corner with copper piping and a window"
+ },
+ "home": {
+  "file": "home.webp",
+  "w": 1600,
+  "h": 700,
+  "alt": "White plumbing service van with the Loma Linda 24/7 Plumbing logo parked on a residential street with palm trees and hills behind"
+ }
+}
